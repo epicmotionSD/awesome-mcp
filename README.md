@@ -152,6 +152,8 @@ Tools for discovering, installing, and managing MCP servers.
 - [E-commerce MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/ecommerce) - Shopping cart and product management
 
 ## Content & Media
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO and Google Ads. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ### Web Scraping & Search
 

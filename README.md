@@ -150,6 +150,7 @@ Tools for discovering, installing, and managing MCP servers.
 - [Stripe MCP](https://github.com/QuantGeekDev/stripe-mcp-server) - Stripe payment processing
 - [QuickBooks MCP](https://github.com/QuantGeekDev/quickbooks-mcp-server) - QuickBooks accounting
 - [E-commerce MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/ecommerce) - Shopping cart and product management
+- [NotFair Google Ads MCP](https://github.com/nowork-studio/toprank) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose performance, recommend optimizations, execute approved changes via the Google Ads API with a built-in human-approval gate. Hosted, streamable-HTTP at notfair.co.
 
 ## Content & Media
 

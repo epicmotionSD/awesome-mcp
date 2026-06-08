@@ -150,6 +150,7 @@ Tools for discovering, installing, and managing MCP servers.
 - [Stripe MCP](https://github.com/QuantGeekDev/stripe-mcp-server) - Stripe payment processing
 - [QuickBooks MCP](https://github.com/QuantGeekDev/quickbooks-mcp-server) - QuickBooks accounting
 - [E-commerce MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/ecommerce) - Shopping cart and product management
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Content & Media
 

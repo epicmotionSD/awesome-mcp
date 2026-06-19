@@ -150,6 +150,7 @@ Tools for discovering, installing, and managing MCP servers.
 - [Stripe MCP](https://github.com/QuantGeekDev/stripe-mcp-server) - Stripe payment processing
 - [QuickBooks MCP](https://github.com/QuantGeekDev/quickbooks-mcp-server) - QuickBooks accounting
 - [E-commerce MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/ecommerce) - Shopping cart and product management
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP for live account data
 
 ## Content & Media
 

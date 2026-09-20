@@ -147,6 +147,7 @@ Tools for discovering, installing, and managing MCP servers.
 
 ## Finance & Business
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [Stripe MCP](https://github.com/QuantGeekDev/stripe-mcp-server) - Stripe payment processing
 - [QuickBooks MCP](https://github.com/QuantGeekDev/quickbooks-mcp-server) - QuickBooks accounting
 - [E-commerce MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/ecommerce) - Shopping cart and product management

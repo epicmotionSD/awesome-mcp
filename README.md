@@ -166,6 +166,9 @@ Tools for discovering, installing, and managing MCP servers.
 - [Cloudinary MCP](https://github.com/cloudinary-community/mcp-server-cloudinary) - Image and video management
 - [ElevenLabs MCP](https://github.com/QuantGeekDev/elevenlabs-mcp-server) - Text-to-speech generation
 - [Spotify MCP](https://github.com/QuantGeekDev/spotify-mcp-server) - Spotify music integration
+- [VideoGen MCP](https://github.com/video-gen/videogen-mcp) - Official server for video workflows, media generation, project remixing and MP4 export. MIT-licensed server; a VideoGen account and API access are required, and generation consumes paid credits.
+  - Installation: `npx -y @videogen/mcp@2.2.1` with `VIDEOGEN_API_KEY`, or connect to `https://mcp.videogen.io/mcp` using Streamable HTTP and OAuth or a bearer API key.
+  - Setup: [VideoGen MCP connection guide](https://videogen.io/videogen-mcp).
 
 ### Social Media
 

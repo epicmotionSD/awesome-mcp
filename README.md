@@ -147,6 +147,8 @@ Tools for discovering, installing, and managing MCP servers.
 
 ## Finance & Business
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local stdio tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
+  - Installation: `brew install nuanu-ai/tap/apn`; launch: `apn mcp serve`
 - [Stripe MCP](https://github.com/QuantGeekDev/stripe-mcp-server) - Stripe payment processing
 - [QuickBooks MCP](https://github.com/QuantGeekDev/quickbooks-mcp-server) - QuickBooks accounting
 - [E-commerce MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/ecommerce) - Shopping cart and product management
